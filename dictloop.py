@@ -29,3 +29,5 @@ print(dictionary)
 
 #dictionary = {key:{nestkey:{subnestedkey:value}}}
 print(dictionary['education']['School']['name'])
+
+print(dictionary.items())
