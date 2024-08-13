@@ -38,6 +38,6 @@ def login():
     else:
         print("Login successfull")
     finally:
-        print("HOme")
+        print("Home")
 
 login()
